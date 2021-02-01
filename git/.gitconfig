@@ -1,0 +1,9 @@
+[user]
+	name = Kevin Pastor
+	email = kevinpastor.mtl@gmail.com
+[color]
+	ui = auto
+[diff]
+	tool = vscode
+[difftool "vscode"]
+	cmd = code --wait --diff $LOCAL $REMOTE
